@@ -1,0 +1,14 @@
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/CreditCardService/bin/Debug/netcoreapp2.2/CreditCardService.deps.json
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/CreditCardService/bin/Debug/netcoreapp2.2/CreditCardService.runtimeconfig.json
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/CreditCardService/bin/Debug/netcoreapp2.2/CreditCardService.runtimeconfig.dev.json
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/CreditCardService/bin/Debug/netcoreapp2.2/CreditCardService.dll
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/CreditCardService/bin/Debug/netcoreapp2.2/CreditCardService.pdb
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/CreditCardService/obj/Debug/netcoreapp2.2/CreditCardService.csproj.CoreCompileInputs.cache
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/CreditCardService/obj/Debug/netcoreapp2.2/CreditCardService.RazorAssemblyInfo.cache
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/CreditCardService/obj/Debug/netcoreapp2.2/CreditCardService.RazorAssemblyInfo.cs
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/CreditCardService/obj/Debug/netcoreapp2.2/CreditCardService.AssemblyInfoInputs.cache
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/CreditCardService/obj/Debug/netcoreapp2.2/CreditCardService.AssemblyInfo.cs
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/CreditCardService/obj/Debug/netcoreapp2.2/CreditCardService.RazorTargetAssemblyInfo.cache
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/CreditCardService/obj/Debug/netcoreapp2.2/CreditCardService.dll
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/CreditCardService/obj/Debug/netcoreapp2.2/CreditCardService.pdb
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/CreditCardService/obj/Debug/netcoreapp2.2/CreditCardService.csprojAssemblyReference.cache

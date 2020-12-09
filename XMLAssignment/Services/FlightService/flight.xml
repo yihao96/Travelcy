@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Flights>
+  <Flight>
+    <id>1</id>
+    <airline>Malaysia Airlines</airline>
+    <departure_date>16-07-2019</departure_date>
+    <departure_time>0950</departure_time>
+    <origin>Kuala Lumpur</origin>
+    <destination>London</destination>
+    <price>1674</price>
+    <stop>none</stop>
+    <seats>104</seats>
+  </Flight>
+  <Flight>
+    <id>2</id>
+    <airline>AirAsia</airline>
+    <departure_date>20-06-2019</departure_date>
+    <departure_time>1350</departure_time>
+    <origin>Kuala Lumpur</origin>
+    <destination>Jakarta</destination>
+    <price>150</price>
+    <stop>none</stop>
+    <seats>159</seats>
+  </Flight>
+  <Flight>
+    <id>3</id>
+    <airline>Jetstar</airline>
+    <departure_date>01-07-2019</departure_date>
+    <departure_time>0850</departure_time>
+    <origin>Kuala Lumpur</origin>
+    <destination>Singapore</destination>
+    <price>143</price>
+    <stop>none</stop>
+    <seats>159</seats>
+  </Flight>
+  <Flight>
+    <id>4</id>
+    <airline>Emirates</airline>
+    <departure_date>16-07-2019</departure_date>
+    <departure_time>1035</departure_time>
+    <origin>Kuala Lumpur</origin>
+    <destination>London</destination>
+    <price>1900</price>
+    <stop>1 stop</stop>
+    <seats>100</seats>
+  </Flight>
+  <Flight>
+    <id>5</id>
+    <airline>British Airways</airline>
+    <departure_date>17-07-2019</departure_date>
+    <departure_time>2310</departure_time>
+    <origin>Kuala Lumpur</origin>
+    <destination>London</destination>
+    <price>2182</price>
+    <stop>none</stop>
+    <seats>159</seats>
+  </Flight>
+</Flights>

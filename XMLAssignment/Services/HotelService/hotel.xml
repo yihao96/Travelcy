@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Hotels>
+  <Hotel>
+    <id>1</id>
+    <hotelname>The Beverly Hills Hotel</hotelname>
+    <address>9641 Sunset Blvd</address>
+    <city>Beverly Hills</city>
+    <state>California</state>
+    <country>United States</country>
+    <pricerange>1119-3549</pricerange>
+  </Hotel>
+</Hotels>

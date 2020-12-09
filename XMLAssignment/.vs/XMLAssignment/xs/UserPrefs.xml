@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.ItemProperties.XMLAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/FlightService/Controllers/FlightsController.cs">
+    <Files>
+      <File FileName="Services/GatewayApi/ocelot.json" Line="1" Column="1" />
+      <File FileName="Services/FlightService/Controllers/FlightsController.cs" Line="69" Column="50" />
+      <File FileName="Services/UserService/user.xml" />
+      <File FileName="Services/UserService/Controllers/UsersController.cs" />
+      <File FileName="Services/FlightService/flight.xml" Line="58" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XMLAssignment" expanded="True">
+            <Node name="FlightService" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="FlightsController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="GatewayApi" expanded="True" />
+            <Node name="UserService" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GatewayApi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FlightService PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{375C084D-B237-4BF2-B3C5-2D67BD6CB223}" ItemName="FlightService" ConfigurationId="Default" />
+        <StartupItem ItemId="{4B18880D-7DC5-471D-91B3-07A9D1E65C71}" ItemName="GatewayApi" ConfigurationId="Default" />
+        <StartupItem ItemId="{6666079E-626B-4323-B5D9-29E6BA1C8A3C}" ItemName="UserService" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.UserService PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

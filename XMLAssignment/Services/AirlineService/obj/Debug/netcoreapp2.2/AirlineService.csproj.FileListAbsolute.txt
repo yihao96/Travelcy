@@ -1,0 +1,14 @@
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/AirlineService/bin/Debug/netcoreapp2.2/AirlineService.deps.json
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/AirlineService/bin/Debug/netcoreapp2.2/AirlineService.runtimeconfig.json
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/AirlineService/bin/Debug/netcoreapp2.2/AirlineService.runtimeconfig.dev.json
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/AirlineService/bin/Debug/netcoreapp2.2/AirlineService.dll
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/AirlineService/bin/Debug/netcoreapp2.2/AirlineService.pdb
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/AirlineService/obj/Debug/netcoreapp2.2/AirlineService.csproj.CoreCompileInputs.cache
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/AirlineService/obj/Debug/netcoreapp2.2/AirlineService.RazorAssemblyInfo.cache
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/AirlineService/obj/Debug/netcoreapp2.2/AirlineService.RazorAssemblyInfo.cs
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/AirlineService/obj/Debug/netcoreapp2.2/AirlineService.AssemblyInfoInputs.cache
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/AirlineService/obj/Debug/netcoreapp2.2/AirlineService.AssemblyInfo.cs
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/AirlineService/obj/Debug/netcoreapp2.2/AirlineService.RazorTargetAssemblyInfo.cache
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/AirlineService/obj/Debug/netcoreapp2.2/AirlineService.dll
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/AirlineService/obj/Debug/netcoreapp2.2/AirlineService.pdb
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/AirlineService/obj/Debug/netcoreapp2.2/AirlineService.csprojAssemblyReference.cache

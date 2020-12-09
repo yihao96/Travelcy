@@ -1,0 +1,14 @@
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/HotelService/bin/Debug/netcoreapp2.2/HotelService.deps.json
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/HotelService/bin/Debug/netcoreapp2.2/HotelService.runtimeconfig.json
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/HotelService/bin/Debug/netcoreapp2.2/HotelService.runtimeconfig.dev.json
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/HotelService/bin/Debug/netcoreapp2.2/HotelService.dll
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/HotelService/bin/Debug/netcoreapp2.2/HotelService.pdb
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/HotelService/obj/Debug/netcoreapp2.2/HotelService.csproj.CoreCompileInputs.cache
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/HotelService/obj/Debug/netcoreapp2.2/HotelService.RazorAssemblyInfo.cache
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/HotelService/obj/Debug/netcoreapp2.2/HotelService.RazorAssemblyInfo.cs
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/HotelService/obj/Debug/netcoreapp2.2/HotelService.AssemblyInfoInputs.cache
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/HotelService/obj/Debug/netcoreapp2.2/HotelService.AssemblyInfo.cs
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/HotelService/obj/Debug/netcoreapp2.2/HotelService.RazorTargetAssemblyInfo.cache
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/HotelService/obj/Debug/netcoreapp2.2/HotelService.dll
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/HotelService/obj/Debug/netcoreapp2.2/HotelService.pdb
+/Users/alexlim/Documents/VisualStudioProjects/XMLAssignment/Services/HotelService/obj/Debug/netcoreapp2.2/HotelService.csprojAssemblyReference.cache
